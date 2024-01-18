@@ -11,8 +11,11 @@
 # breakpoint()
 #use print(name[x:y]) to print required string
 #use print(name.split[x:y]) to split
+#print(len(name)) to find length
 
-name=input("enter your name")
+#print(name.replace("ronit","ronitttt"))
+
+name=input("enter your name:\n")
 print(name.split(" "))
 splitted_text=name.split(" ")
 print(f"first name is {splitted_text[0]}")
