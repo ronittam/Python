@@ -1,6 +1,6 @@
 # Reverse a given string without using the reverse function or slicing
 
-string="oscar"
+string="ronit"
 print("Original string is",string)
 string_length=len(string)
 reverse_string=""
